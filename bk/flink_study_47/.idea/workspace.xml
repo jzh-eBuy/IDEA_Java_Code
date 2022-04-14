@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="076310fd-37a0-4792-bb7d-58d7b9497851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flink_study_47.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/hive-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/dir/words1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/dir/words2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/wordcount.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flink_study_47.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/action/DoubleElevenBigScreem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/action/OrderAutomaticFavorableComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/checkpoint/CheckpointDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/checkpoint/CheckpointDemo02_Restart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/connectors/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/connectors/KafkaComsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/connectors/KafkaSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/connectors/RedisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/ASyncIODemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/BroadcastStateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/FileSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/Flink_Kafka_EndToEnd_Exactly_Once.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/HiveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/JoinDemo01_WindowJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/JoinDemo02_IntervalJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/feature/StreamingFileSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/hello/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/hello/WordCount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/hello/WordCount3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/hello/WordCount4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/hello/WordCount5_Yarn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/metrics/MetricsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/metrics/MetricsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sink/SinkDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sink/SinkDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/source/SourceDemo01_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/source/SourceDemo02_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/source/SourceDemo03_Socket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/source/SourceDemo04_Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/source/SourceDemo05_Customer_MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/sql/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/state/StateDemo01_KeyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/state/StateDemo02_OperatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/temp/Interview_1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/temp/Interview_2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/temp/Interview_3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/temp/Interview_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/temp/Interview_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/transformation/TransformationDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/transformation/TransformationDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/transformation/TransformationDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/transformation/TransformationDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/transformation/TransformationDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/util/FlinkEnvUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/watermaker/WatermakerDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/watermaker/WatermakerDemo02_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/watermaker/WatermakerDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/window/WindowDemo_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/window/WindowDemo_3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/window/WindowDemo_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/bean/ClickLogWide.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/bean/Message.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/mock/ClickLogGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/task/ChannelHotTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/task/ChannelPvUvTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/task/DataToWideTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/util/HBaseUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/util/TimeUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$$anon$1$$anon$2$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$$anon$1$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$$anon$1$$anon$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$$anon$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$CategoryPojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$FinalResultWindowProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$MySource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$PriceAggregate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem$WindowResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/DoubleElevenBigScreem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/OrderAutomaticFavorableComments$MySource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/OrderAutomaticFavorableComments$TimerProcessFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/action/OrderAutomaticFavorableComments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/ClickLog$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/ClickLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/ClickLogWide$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/ClickLogWide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/Message$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/bean/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo02_Restart$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo02_Restart$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/checkpoint/CheckpointDemo02_Restart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/JDBCDemo$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/JDBCDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/KafkaComsumerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/KafkaSinkDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/KafkaSinkDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/RedisDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/RedisDemo$MyRedisMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/connectors/RedisDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIODemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIODemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIOFunction1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIOFunction1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIOFunction1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIOFunction2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/ASyncIOFunction2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/BroadcastStateDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/BroadcastStateDemo$MySQLSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/BroadcastStateDemo$MySource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/BroadcastStateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/CategoryInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/FileSinkDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/FileSinkDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/FileSinkDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/Flink_Kafka_EndToEnd_Exactly_Once$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/Flink_Kafka_EndToEnd_Exactly_Once$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/Flink_Kafka_EndToEnd_Exactly_Once.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/HiveDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$FactOrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$GoodsSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$GoodsWatermark$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$GoodsWatermark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$OrderItemSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$OrderItemWatermark$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin$OrderItemWatermark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo01_WindowJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$FactOrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$GoodsSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$GoodsWatermark$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$GoodsWatermark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$OrderItemSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$OrderItemWatermark$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin$OrderItemWatermark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/JoinDemo02_IntervalJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/MysqlSyncClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/StreamingFileSinkDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/StreamingFileSinkDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/feature/StreamingFileSinkDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount3$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/hello/WordCount5_Yarn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/metrics/MetricsDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/metrics/MetricsDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/metrics/MetricsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/metrics/MetricsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/mock/ClickLogGenerator$ClickLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/mock/ClickLogGenerator$Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/mock/ClickLogGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sink/SinkDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sink/SinkDemo02$MySQLSink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sink/SinkDemo02$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sink/SinkDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo01_Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo02_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo03_Socket$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo03_Socket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo04_Customer$MyOrderSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo04_Customer$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo04_Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo05_Customer_MySQL$MySQLSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo05_Customer_MySQL$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/source/SourceDemo05_Customer_MySQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo01$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo02$WC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo02_2$WC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo02_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03_2$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo03_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo04$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/sql/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/state/StateDemo01_KeyState$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/state/StateDemo01_KeyState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/state/StateDemo02_OperatorState$MyKafkaSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/state/StateDemo02_OperatorState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$$anon$1$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$ChannelRealHot$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask$ChannelRealHot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelHotTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$$anon$1$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$ChannelRealPvUv$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask$ChannelRealPvUv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/ChannelPvUvTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/DataToWideTask$$anon$1$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/DataToWideTask$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/DataToWideTask$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/task/DataToWideTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_3$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/temp/Interview_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo01$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo01$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo03$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo04$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo04$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo05$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo05$MyPartitioner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/transformation/TransformationDemo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/util/FlinkEnvUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/util/HBaseUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/util/HBaseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/util/TimeUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/util/TimeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo01$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo02_Check.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo03$Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/watermaker/WatermakerDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_1_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_1_2$CartInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_3_4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_3_4$CartInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_3_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_5$CartInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/itcast/window/WindowDemo_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/.idea/libraries/scala_sdk_2_12_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/bk/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/bk/pom_1.14.4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/conf/hive-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/Watermaker/WatermakerDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/action/DoubleElevenBigScreem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/action/OrderAutomaticFavorableComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/checkpoint/CheckpointDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/checkpoint/CheckpointDemo02_Restart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/connectors/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/connectors/KafkaComsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/connectors/KafkaSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/connectors/RedisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/BroadcastStateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/Flink_Kafka_EndToEnd_Exactly_Once.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/HiveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/JoinDemo01_WindowJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/JoinDemo02_IntervalJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/feature/StreamingFileSinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sink/SinkDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sink/SinkDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/sql/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/state/StateDemo01_KeyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/state/StateDemo02_OperatorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/transformation/TransformationDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/transformation/TransformationDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/window/WindowDemo_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/window/WindowDemo_3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/java/cn/itcast/window/WindowDemo_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/bean/ClickLogWide.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/bean/Message.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/mock/ClickLogGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/task/ChannelHotTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/task/ChannelPvUvTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/task/DataToWideTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/util/HBaseUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flink_study-47/src/main/scala/cn/itcast/util/TimeUtil.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flink_study-47/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../flink_study-47/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flink_study-47/data/output/result1" beforeDir="false" afterPath="$PROJECT_DIR$/../../flink_study-47/data/output/result1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flink_study-47/data/output/result2/1" beforeDir="false" afterPath="$PROJECT_DIR$/../../flink_study-47/data/output/result2/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flink_study-47/data/output/result2/2" beforeDir="false" afterPath="$PROJECT_DIR$/../../flink_study-47/data/output/result2/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flink_study-47/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../flink_study-47/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\install\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../soft/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="H:\install\maven\apache-maven-3.6.3\conf\settings-boGo.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1n2k4l8iuqmICC4qMG8kL1NubLh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.metrics" />
+      <recent name="cn.itcast.feature" />
+      <recent name="cn.itcast.temp" />
+      <recent name="cn.itcast.sql" />
+      <recent name="cn.itcast.checkpoint" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\develop\code\idea\flink_study_47\src\main\resources" />
+      <recent name="C:\develop\code\idea\flink_study_47\src\main\scala" />
+      <recent name="C:\develop\code\idea\flink_study_47\src\main\java\cn\itcast" />
+      <recent name="C:\develop\code\idea\flink_study_47" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HiveDemo">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.App" />
+      <module name="flink_study_47" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickLogGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mock.ClickLogGenerator" />
+      <module name="flink_study_47" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.feature.HiveDemo" />
+      <module name="flink_study_47" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetricsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.metrics.MetricsDemo" />
+      <module name="flink_study_47" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetricsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.metrics.MetricsTest" />
+      <module name="flink_study_47" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HiveDemo" />
+        <item itemvalue="Application.ClickLogGenerator" />
+        <item itemvalue="Application.MetricsTest" />
+        <item itemvalue="Application.MetricsDemo" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\caowei\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="076310fd-37a0-4792-bb7d-58d7b9497851" name="Default Changelist" comment="" />
+      <created>1610595384069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610595384069</updated>
+      <workItem from="1610595389363" duration="1262000" />
+      <workItem from="1610606098464" duration="6061000" />
+      <workItem from="1610671984240" duration="9713000" />
+      <workItem from="1610692802023" duration="8496000" />
+      <workItem from="1610845180378" duration="6356000" />
+      <workItem from="1610864371287" duration="12001000" />
+      <workItem from="1610884458794" duration="211000" />
+      <workItem from="1610931640860" duration="9514000" />
+      <workItem from="1610952743286" duration="11045000" />
+      <workItem from="1611017853830" duration="10320000" />
+      <workItem from="1611037208412" duration="13042000" />
+      <workItem from="1611062967077" duration="702000" />
+      <workItem from="1611065196108" duration="1429000" />
+      <workItem from="1611152448005" duration="165000" />
+      <workItem from="1611190917512" duration="8032000" />
+      <workItem from="1611212446050" duration="12211000" />
+      <workItem from="1611277008444" duration="9694000" />
+      <workItem from="1611296413946" duration="10118000" />
+      <workItem from="1649261845442" duration="3452000" />
+      <workItem from="1649296553142" duration="2049000" />
+      <workItem from="1649326623766" duration="599000" />
+      <workItem from="1649424912065" duration="21000" />
+      <workItem from="1649425580351" duration="137000" />
+      <workItem from="1649425728534" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

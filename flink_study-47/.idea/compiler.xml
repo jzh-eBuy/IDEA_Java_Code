@@ -7,8 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flink_study-47" />
+        <module name="flink_study_47" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink_study-47" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
